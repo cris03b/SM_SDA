@@ -1,0 +1,2 @@
+D:\Visual Studio\SDA\lab6_SDA\Debug\lab6_SDA.exe
+D:\Visual Studio\SDA\lab6_SDA\Debug\lab6_SDA.pdb
